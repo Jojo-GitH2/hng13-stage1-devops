@@ -1,7 +1,5 @@
 # hng13-stage1-devops
 
-### README
-
 #### Overview
 This shell script automates deployment of a Dockerized application from a remote Git HTTPS repository to a remote server over SSH. It can:
 - Clone or update a repository using a Personal Access Token for private repos.
